@@ -45,7 +45,6 @@ Une fois Docker installé et configuré, tu peux utiliser le `Makefile` pour ex�
 ```bash
 make up
 ```
-
 ### 3. Créer les migrations
 
 ```bash
